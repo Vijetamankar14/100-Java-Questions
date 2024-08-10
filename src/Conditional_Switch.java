@@ -5,9 +5,9 @@ public class Conditional_Switch {
 
         System.out.print("Enter any number b/w 1 to 3 : ");
         Scanner scan = new Scanner(System.in);
-        int a= scan.nextInt();
+        int button= scan.nextInt();
 
-        switch (a){
+        switch (button){
             case 1:
                 System.out.println("Hello");
                 break;
