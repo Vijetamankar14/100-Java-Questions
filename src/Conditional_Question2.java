@@ -15,7 +15,7 @@ public class Conditional_Question2 {
             System.out.println("Equal");
         } else if (a>b) {
             System.out.println("A is greater");
-        } else if (a<b) {
+        } else  {
             System.out.println("B is greater");
         }
 
